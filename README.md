@@ -1,13 +1,12 @@
 #   Two-Dimensional Vectorized Plasma Particle-in-Cell Simulation Code With Hardware Accelerated Graphics Output
 
+![Demonstration](https://raw.githubusercontent.com/SelmaLeathem/Vectorized-Particle-in-Cell-Code-With-Graphics/main/PIC_Simulation2.gif)
+
 A two-dimensional plasma particle-in-cell simulation code in C/C++ has been developed and vectorized onto the graphics-processing-unit (GPU) with hardware-accelerated graphics output.  
 
 The simulation can be run either interactively where real-time graphics showing the current state of the simulation is rendered using OpenGL or in batch mode where an extensive list of averaged data is calculated and output to text files for import into applications such as Matlab.  Additionally, datafiles saving the current state of the simulation can be dumped at the end of a run and optionally read in at the start of a later simulation to pick up where the previous simulation left off. This feature is available in both batch and interactive mode whereby the user has the flexibility of running a simulation in batch mode up to a time point of interest and then restarting from that state in graphics mode for real-time dynamic observation.
 
 All sources referenced during code development are located as pdfs in the *References* folder.
-
-![Demonstration](https://raw.githubusercontent.com/SelmaLeathem/Vectorized-Particle-in-Cell-Code-With-Graphics/main/PIC_Simulation2.gif)
-
 
 #### *See the following video for an overview of the project and a demonstration:* https://media.oregonstate.edu/media/t/1_stl8aycr
 
