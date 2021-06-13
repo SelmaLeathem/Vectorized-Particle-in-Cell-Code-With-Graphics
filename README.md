@@ -8,7 +8,9 @@ All sources referenced during code development are located as pdfs in the *Refer
 
 ![Demonstration](https://raw.githubusercontent.com/SelmaLeathem/Vectorized-Particle-in-Cell-Code-With-Graphics/main/PIC_Simulation.gif)
 
-*See the following video for an overview of the project and a demonstration:* https://media.oregonstate.edu/media/t/1_stl8aycr
+
+#### *See the following video for an overview of the project and a demonstration:* https://media.oregonstate.edu/media/t/1_stl8aycr
+
 
 ## Instructions
 

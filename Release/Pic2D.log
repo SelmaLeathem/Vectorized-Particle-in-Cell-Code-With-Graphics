@@ -1,1 +1,118 @@
-﻿
+﻿  boundary.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\boundary.cpp(428,8): warning C4101: 'paws': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\boundary.cpp(891,17): warning C4101: 'j': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\boundary.cpp(996,13): warning C4101: 'j': unreferenced local variable
+  collisions.cpp
+  e_collisions.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\e_collisions.cpp(324,16): warning C4101: 'eta1': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\e_collisions.cpp(324,21): warning C4101: 'ejected_energy': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\e_collisions.cpp(324,11): warning C4101: 'eta0': unreferenced local variable
+  fields.cpp
+  glslprogram.cpp
+  graphics.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(98,55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(98,55): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(101,57): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(101,57): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(101,77): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(101,77): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(101,98): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(101,98): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(107,55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(107,55): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(108,63): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(108,63): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(109,58): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(109,58): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(110,66): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(110,66): warning C4244: 'initializing': conversion from 'double' to 'const GLfloat', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(253,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(255,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(260,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(293,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(297,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(308,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(309,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(310,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(311,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(314,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(317,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(337,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(343,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(349,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(410,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(421,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(422,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(434,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(435,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(440,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(443,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(449,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(452,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(457,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(459,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(463,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(465,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(465,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(469,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(471,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(474,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(476,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(495,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(496,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(500,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(501,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(529,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(538,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(543,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(545,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(548,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(553,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(576,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(577,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(601,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(602,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(771,6): warning C4101: 'selectedRadioButton': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(846,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(973,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(990,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphics.cpp(993,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  graphicsFonts.cpp
+  graphs.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(617,33): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(460,12): warning C4101: 'k': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(460,15): warning C4101: 'yPosition': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(460,8): warning C4101: 'i': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(460,26): warning C4101: 'xPosition': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(920,33): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\graphs.cpp(695,12): warning C4101: 'k': unreferenced local variable
+  ion_collisions.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\ion_collisions.cpp(260,11): warning C4101: 'R': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\ion_collisions.cpp(259,33): warning C4101: 'sigma_total': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\ion_collisions.cpp(259,11): warning C4101: 'sigma_iEl': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\ion_collisions.cpp(262,24): warning C4101: 'coll_factor': unreferenced local variable
+  main.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\main.cpp(35,10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  mglin.cpp
+  openCLutility.cpp
+  particle.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(44,10): warning C4101: 'j': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(44,8): warning C4101: 'i': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(648,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(802,34): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(665,8): warning C4101: 'i': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1042,33): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1299,33): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1113,17): warning C4101: 'vpar': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1113,38): warning C4101: 'uy': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1113,22): warning C4101: 'vperp_after': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1113,11): warning C4101: 'vperp': unreferenced local variable
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\particle.cpp(1113,34): warning C4101: 'ux': unreferenced local variable
+  pic.cpp
+C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\pic.cpp(156,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 591 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pic2D.vcxproj -> C:\Users\Owner\Documents\GitHub Repository\Vectorized-Particle-in-Cell-Code-With-Graphics\Release\Pic2D.exe
