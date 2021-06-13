@@ -6,6 +6,10 @@ The simulation can be run either interactively where real-time graphics showing 
 
 All sources referenced during code development are located as pdfs in the *References* folder.
 
+![Video Demonstration](https://github.com/SelmaLeathem/Vectorized-Particle-in-Cell-Code-With-Graphics/PIC_Simulation.gif)
+
+### *See the following video for an overview of the project and a demonstration:* https://media.oregonstate.edu/media/t/1_stl8aycr
+
 ## Instructions
 
 ###  i.	Requirements
