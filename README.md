@@ -1,4 +1,6 @@
-#   Two-Dimensional Vectorized Plasma Particle-in-Cell Simulation Code With Hardware Accelerated Graphics Output
+   Two-Dimensional Vectorized Plasma Particle-in-Cell Simulation Code With Hardware Accelerated Graphics Output
+
+![Demonstration](https://raw.githubusercontent.com/SelmaLeathem/Vectorized-Particle-in-Cell-Code-With-Graphics/main/PIC_Simulation2.gif)
 
 A two-dimensional plasma particle-in-cell simulation code in C/C++ has been developed and vectorized onto the graphics-processing-unit (GPU) with hardware-accelerated graphics output.  
 
